@@ -13,7 +13,7 @@ public class Dem1{
 		@Test
 		public void sams()
 		{
-			System.out.println("Executing new1234");
+			System.out.println("Executing new12345");
 			//test
 
 		}
